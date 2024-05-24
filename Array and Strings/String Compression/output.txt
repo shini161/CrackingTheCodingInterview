@@ -1,0 +1,8 @@
+Case #1: a2b1c5a3
+Case #2: a2b1c4a3
+Case #3: abcdefg
+Case #4: z3Z3z3
+Case #5: a7
+Case #6: AbCdEfG
+Case #7: abcde
+Case #8: abcdefgh
